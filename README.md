@@ -22,9 +22,6 @@ e-commerce customer service environment.
 **Business Value:**
 Supports customer experience improvement and service optimization strategies.
 
-🔗 Tableau Dashboard:
-https://public.tableau.com/profile/yourname#!/vizhome/csat-dashboard
-
 ---
 
 ## Dashboard 2: Coffee Chain Sales & Profit Analysis
@@ -48,9 +45,6 @@ states, and regions to support business decision-making.
 **Business Value:**
 Helps product managers and executives identify growth opportunities and
 areas requiring cost or strategy optimization.
-
-🔗 Tableau Dashboard:
-https://public.tableau.com/profile/yourname#!/vizhome/coffee-chain-dashboard
 
 ---
 
